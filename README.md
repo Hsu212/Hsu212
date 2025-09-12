@@ -38,7 +38,7 @@ I'm a full-stack developer. I have a deep passion for building elegant, user-fri
 Here are some of the technologies I'm proficient in:
 
 <p align="left">
-<div style="margin-bottom: 10px;">
+<div style="margin-bottom: 20px;">
 <strong>Languages:</strong>
 </div>
 <a href="https://www.python.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="45" height="45"/></a><span style="padding-left: 25px;"></span>
@@ -51,7 +51,7 @@ Here are some of the technologies I'm proficient in:
 </p>
 
 <p align="left">
-<div style="margin-bottom: 10px;">
+<div style="margin-bottom: 20px;">
 <strong>Frontend:</strong>
 </div>
 <a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="45" height="45"/></a><span style="padding-left: 25px;"></span>
@@ -63,7 +63,7 @@ Here are some of the technologies I'm proficient in:
 </p>
 
 <p align="left">
-<div style="margin-bottom: 10px;">
+<div style="margin-bottom: 20px;">
 <strong>Backend & Others:</strong>
 </div>
 <a href="https://nodejs.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="45" height="45"/></a><span style="padding-left: 25px;"></span>
