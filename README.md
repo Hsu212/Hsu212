@@ -1,37 +1,35 @@
 <div id="header" align="center">
-<img src="assets/pp.jpg" width="150"/>
-<h1 align="center">Hi 👋, I'm Hsu Myat Wai Maung</h1>
-<h3 align="center">A passionate full-stack developer crafting beautiful and functional applications from scratch.</h3>
+<img src="assets/pp.jpg" width="200" style="border-radius: 50%;"/>
+<h1 align="center">
+<img src="https://img.shields.io/badge/Hi!_I'm_Hsu_Myat_Wai_Maung-FF69B4?style=for-the-badge&logo=wave&logoColor=white" alt="Name Badge"/>
+</h1>
+<h3 align="center"><b>✨ Crafting beautiful, functional apps as a passionate full-stack developer ✨</b></h3>
 </div>
 
 <div align="center">
 <a href="https://hsu212.github.io/">
-<img src="https://img.shields.io/badge/Portfolio-255E63?style=flat&logo=hyper&logoColor=white" alt="Portfolio"/>
+<img src="https://img.shields.io/badge/Portfolio-8B008B?style=for-the-badge&logo=hyper&logoColor=white" alt="Portfolio"/>
 </a>
-</div>
-<div align="center">
+<br><br>
 <a href="mailto:kienbrown76@gmail.com">
-<img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" alt="Email"/>
+<img src="https://img.shields.io/badge/Email-DC143C?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
 </a>
 </div>
 
-👨‍💻 About Me
+## 👨‍💻 About Me
 
-<p>
-I'm a full-stack developer. I have a deep passion for building elegant, user-friendly, and efficient web applications. I enjoy turning complex problems into simple, beautiful, and intuitive designs.
-</p>
+> I'm a full-stack developer with a passion for building **elegant, user-friendly, and efficient** web applications. I love turning complex problems into simple, beautiful, and intuitive designs.
 
-    🔭 I’m currently working on a cool project.
-
-    🌱 I’m currently learning React Native.
-
-    👯 I’m looking to collaborate on open-source full-stack projects.
-
-    💬 Ask me about React, Next.js, and anything JavaScript-related!
-
-    📫 How to reach me: kienbrown76@gmail.com
-
-    😄 Pronouns: she/her
+<div align="center">
+<table>
+<tr><td>🔭</td><td><b>Currently working on</b></td><td>a cool project</td></tr>
+<tr><td>🌱</td><td><b>Currently learning</b></td><td>React Native</td></tr>
+<tr><td>👯</td><td><b>Looking to collaborate on</b></td><td>open-source full-stack projects</td></tr>
+<tr><td>💬</td><td><b>Ask me about</b></td><td>React, Next.js, and anything JavaScript-related!</td></tr>
+<tr><td>📫</td><td><b>How to reach me</b></td><td>kienbrown76@gmail.com</td></tr>
+<tr><td>😄</td><td><b>Pronouns</b></td><td>she/her</td></tr>
+</table>
+</div>
 
 🛠️ My Tech Stack
 
