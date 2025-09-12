@@ -1,19 +1,20 @@
 <div id="header" align="center">
-<img src="assets/pacman.webp" width="400" height="150" style="border-radius: 50%;"/>
-<h1 align="center">
-<img src="https://img.shields.io/badge/Hi!_I'm_Hsu_Myat_Wai_Maung-FF69B4?style=for-the-badge&logo=wave&logoColor=white" alt="Name Badge"/>
-</h1>
-<h3 align="center"><b>✨ Crafting beautiful, functional apps as a passionate full-stack developer ✨</b></h3>
+  <img src="assets/pp.jpg" width="200" style="border-radius: 50%;"/>
+  <h1 align="center" style="display: flex; align-items: center; justify-content: center; gap: 10px;">
+    <img src="https://img.shields.io/badge/Hi!_I'm_Hsu_Myat_Wai_Maung-FF69B4?style=for-the-badge&logo=wave&logoColor=white" alt="Name Badge"/>
+    <img src="assets/pacman.webp" width="300" height="100" alt="Pacman Animation" style="border-radius: 10px;"/>
+  </h1>
+  <h3 align="center"><b>✨ Crafting beautiful, functional apps as a passionate full-stack developer ✨</b></h3>
 </div>
 
 <div align="center">
-<a href="https://hsu212.github.io/">
-<img src="https://img.shields.io/badge/Portfolio-8B008B?style=for-the-badge&logo=hyper&logoColor=white" alt="Portfolio"/>
-</a>
-<br><br>
-<a href="mailto:kienbrown76@gmail.com">
-<img src="https://img.shields.io/badge/Email-DC143C?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-</a>
+  <a href="https://hsu212.github.io/">
+    <img src="https://img.shields.io/badge/Portfolio-8B008B?style=for-the-badge&logo=hyper&logoColor=white" alt="Portfolio"/>
+  </a>
+  <br><br>
+  <a href="mailto:kienbrown76@gmail.com">
+    <img src="https://img.shields.io/badge/Email-DC143C?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
 </div>
 
 ## <img src="assets/me.webp" width="40" alt="Icon" /> About Me
