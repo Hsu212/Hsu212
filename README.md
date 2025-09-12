@@ -55,7 +55,7 @@ Here are some of the technologies I'm proficient in:
 <a href="https://nextjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" alt="nextjs" width="45" height="45"/></a>&nbsp;&nbsp;&nbsp;&nbsp;<span style="padding-left: 15px;"></span>
 <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="45" height="45"/></a>&nbsp;&nbsp;&nbsp;&nbsp;<span style="padding-left: 15px;"></span>
 <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="45" height="45"/></a>&nbsp;&nbsp;&nbsp;&nbsp;<span style="padding-left: 15px;"></span>
-<a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-plain.svg" alt="tailwind" width="45" height="45"/></a>
+<a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://www.svgrepo.com/download/333609/tailwind-css.svg" alt="tailwind" width="45" height="45"/></a>
 </p>
 
 <p align="left">
