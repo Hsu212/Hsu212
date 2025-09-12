@@ -1,5 +1,5 @@
 <div id="header" align="center">
-      <img src="assets/pacman.webp" width="250" height="150" alt="Pacman Animation" style="border-radius: 10px;"/>
+      <img src="assets/pacman.webp" width="300" height="200" alt="Pacman Animation" style="border-radius: 10px;"/>
   <h1 align="center" style="display: flex; align-items: center; justify-content: center; gap: 10px;">
     Hi! I'm Hsu Myat Wai Maung
   </h1>
