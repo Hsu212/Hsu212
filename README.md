@@ -16,7 +16,7 @@
 </a>
 </div>
 
-## 👨‍💻 About Me
+## <img src="https://giphy.com/stickers/self-care-all-about-me-alixcarman-fAbbq1tF99d0uiizsr" width="30" alt="Icon" /> About Me
 
 > I'm a full-stack developer with a passion for building **elegant, user-friendly, and efficient** web applications. I love turning complex problems into simple, beautiful, and intuitive designs.
 
