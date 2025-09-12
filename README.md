@@ -16,7 +16,7 @@
 </a>
 </div>
 
-## <img src="200.webp" width="30" alt="Icon" /> About Me
+## <img src="assets/200.webp" width="30" alt="Icon" /> About Me
 
 > I'm a full-stack developer with a passion for building **elegant, user-friendly, and efficient** web applications. I love turning complex problems into simple, beautiful, and intuitive designs.
 
