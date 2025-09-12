@@ -1,42 +1,19 @@
 <div id="header" align="center">
-  <img src="assets/pp.jpg" width="200" style="border-radius: 50%;"/>
-  <h1 align="center">
-    <span class="animated-text">Hi! I'm Hsu Myat Wai Maung</span>
-  </h1>
-  <style>
-    .animated-text {
-      display: inline-block;
-      font-family: 'Courier New', Courier, monospace;
-      color: #FF69B4;
-      font-size: 24px;
-      white-space: nowrap;
-      overflow: hidden;
-      border-right: 3px solid #FF69B4;
-      width: 0;
-      animation: typing 3s steps(30, end) forwards, blink 0.75s step-end infinite;
-    }
-
-    @keyframes typing {
-      from { width: 0; }
-      to { width: 100%; }
-    }
-
-    @keyframes blink {
-      from, to { border-color: transparent; }
-      50% { border-color: #FF69B4; }
-    }
-  </style>
-  <h3 align="center"><b>✨ Crafting beautiful, functional apps as a passionate full-stack developer ✨</b></h3>
+<img src="assets/pp.jpg" width="200" style="border-radius: 50%;"/>
+<h1 align="center">
+<img src="https://img.shields.io/badge/Hi!_I'm_Hsu_Myat_Wai_Maung-FF69B4?style=for-the-badge&logo=wave&logoColor=white" alt="Name Badge"/>
+</h1>
+<h3 align="center"><b>✨ Crafting beautiful, functional apps as a passionate full-stack developer ✨</b></h3>
 </div>
 
 <div align="center">
-  <a href="https://hsu212.github.io/">
-    <img src="https://img.shields.io/badge/Portfolio-8B008B?style=for-the-badge&logo=hyper&logoColor=white" alt="Portfolio"/>
-  </a>
-  <br><br>
-  <a href="mailto:kienbrown76@gmail.com">
-    <img src="https://img.shields.io/badge/Email-DC143C?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-  </a>
+<a href="https://hsu212.github.io/">
+<img src="https://img.shields.io/badge/Portfolio-8B008B?style=for-the-badge&logo=hyper&logoColor=white" alt="Portfolio"/>
+</a>
+<br><br>
+<a href="mailto:kienbrown76@gmail.com">
+<img src="https://img.shields.io/badge/Email-DC143C?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+</a>
 </div>
 
 ## 👨‍💻 About Me
@@ -45,12 +22,12 @@
 
 <div align="center">
 <table>
-  <tr><td>🔭</td><td><b>Currently working on</b></td><td>a cool project</td></tr>
-  <tr><td>🌱</td><td><b>Currently learning</b></td><td>React Native</td></tr>
-  <tr><td>👯</td><td><b>Looking to collaborate on</b></td><td>open-source full-stack projects</td></tr>
-  <tr><td>💬</td><td><b>Ask me about</b></td><td>React, Next.js, and anything JavaScript-related!</td></tr>
-  <tr><td>📫</td><td><b>How to reach me</b></td><td>kienbrown76@gmail.com</td></tr>
-  <tr><td>😄</td><td><b>Pronouns</b></td><td>she/her</td></tr>
+<tr><td>🔭</td><td><b>Currently working on</b></td><td>a cool project</td></tr>
+<tr><td>🌱</td><td><b>Currently learning</b></td><td>React Native</td></tr>
+<tr><td>👯</td><td><b>Looking to collaborate on</b></td><td>open-source full-stack projects</td></tr>
+<tr><td>💬</td><td><b>Ask me about</b></td><td>React, Next.js, and anything JavaScript-related!</td></tr>
+<tr><td>📫</td><td><b>How to reach me</b></td><td>kienbrown76@gmail.com</td></tr>
+<tr><td>😄</td><td><b>Pronouns</b></td><td>she/her</td></tr>
 </table>
 </div>
 
@@ -90,11 +67,11 @@ Here are some of the technologies I'm proficient in:
 ## 📊 My GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Hsu212&show_icons=true&theme=radical&hide_border=true&include_all_commits=true" alt="GitHub Stats" />
-  <br><br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hsu212&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
-  <br><br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Hsu212&theme=radical&hide_border=true" alt="GitHub Streak" />
-  <br><br>
-  <img src="https://raw.githubusercontent.com/trinib/trinib/main/images/footer.svg" alt="footer" width="400"/>
+<img src="https://github-readme-stats.vercel.app/api?username=Hsu212&show_icons=true&theme=radical&hide_border=true&include_all_commits=true" alt="GitHub Stats" />
+<br><br>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hsu212&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
+<br><br>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Hsu212&theme=radical&hide_border=true" alt="GitHub Streak" />
+<br><br>
+<img src="https://raw.githubusercontent.com/trinib/trinib/main/images/footer.svg" alt="footer" width="400"/>
 </div>
