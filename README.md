@@ -70,30 +70,10 @@ Here are some of the technologies I'm proficient in:
 
 <div align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=Hsu212&show_icons=true&theme=radical&hide_border=true&include_all_commits=true" alt="GitHub Stats" />
-<br/>
-<img src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api/top-langs/%3Fusername%3DHsu212&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
+<br><br>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hsu212&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
+<br><br>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Hsu212&theme=radical&hide_border=true" alt="GitHub Streak" />
+<br><br>
+<img src="https://raw.githubusercontent.com/trinib/trinib/main/images/footer.svg" alt="footer" width="400"/>
 </div>
-
-<div align="center">
-<img src="https://www.google.com/search?q=https://github-readme-streak-stats.herokuapp.com/%3Fuser%3DHsu212&theme=radical&hide_border=true" alt="GitHub Streak" />
-</div>
-
-<br/>
-<p align="center">
-<img src="https://www.google.com/search?q=https://raw.githubusercontent.com/trinib/trinib/main/images/footer.svg" alt="footer" />
-</p>
-
-<!--
-**Hsu212/Hsu212** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
