@@ -1,6 +1,6 @@
 <div id="header" align="center">
 <img src="https://www.google.com/search?q=https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
-<h1 align="center">Hi 👋, I'm [Your Name]</h1>
+<h1 align="center">Hi 👋, I'm Hsu Myat Wai Maung</h1>
 <h3 align="center">A passionate full-stack developer crafting beautiful and functional applications from scratch.</h3>
 </div>
 
