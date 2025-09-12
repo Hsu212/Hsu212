@@ -1,5 +1,5 @@
 <div id="header" align="center">
-<img src="pp.jpg"/>
+<img src="assets/pp.jpg"/>
 <h1 align="center">Hi 👋, I'm Hsu Myat Wai Maung</h1>
 <h3 align="center">A passionate full-stack developer crafting beautiful and functional applications from scratch.</h3>
 </div>
