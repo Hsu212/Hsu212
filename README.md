@@ -1,5 +1,4 @@
 <div id="header" align="center">
-  <img src="assets/pp.jpg" width="200" style="border-radius: 50%;"/>
   <h1 align="center" style="display: flex; align-items: center; justify-content: center; gap: 10px;">
     <img src="https://img.shields.io/badge/Hi!_I'm_Hsu_Myat_Wai_Maung-FF69B4?style=for-the-badge&logo=wave&logoColor=white" alt="Name Badge"/>
     <img src="assets/pacman.webp" width="300" height="100" alt="Pacman Animation" style="border-radius: 10px;"/>
