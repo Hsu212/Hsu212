@@ -15,7 +15,7 @@
 👨‍💻 About Me
 
 <p>
-I'm a full-stack developer based in [Your City, Country]. I have a deep passion for building elegant, user-friendly, and efficient web applications. I enjoy turning complex problems into simple, beautiful, and intuitive designs.
+I'm a full-stack developer. I have a deep passion for building elegant, user-friendly, and efficient web applications. I enjoy turning complex problems into simple, beautiful, and intuitive designs.
 </p>
 
     🔭 I’m currently working on a cool project.
