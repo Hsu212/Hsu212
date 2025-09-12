@@ -5,13 +5,10 @@
 </div>
 
 <div align="center">
-<a href="[your_portfolio_link]">
+<a href="https://hsu212.github.io/">
 <img src="https://www.google.com/search?q=https://img.shields.io/badge/Portfolio-255E63%3Fstyle%3Dfor-the-badge%26logo%3Dhyper%26logoColor%3Dwhite" alt="Portfolio"/>
 </a>
-<a href="[your_linkedin_link]">
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/LinkedIn-0077B5%3Fstyle%3Dfor-the-badge%26logo%3Dlinkedin%26logoColor%3Dwhite" alt="LinkedIn"/>
-</a>
-<a href="mailto:[your_email]">
+<a href="mailto:kienbrown76@gmail.com">
 <img src="https://www.google.com/search?q=https://img.shields.io/badge/Email-D14836%3Fstyle%3Dfor-the-badge%26logo%3Dgmail%26logoColor%3Dwhite" alt="Email"/>
 </a>
 </div>
@@ -23,17 +20,15 @@ I'm a full-stack developer based in [Your City, Country]. I have a deep passion 
 
     🔭 I’m currently working on a cool project you're building.
 
-    🌱 I’m currently learning [Something new you're learning, e.g., Go or Svelte].
+    🌱 I’m currently learning React Native.
 
     👯 I’m looking to collaborate on open-source full-stack projects.
 
-    🤔 I’m looking for help with [a specific technology or concept].
-
     💬 Ask me about React, Next.js, and anything JavaScript-related!
 
-    📫 How to reach me: [your_email@domain.com]
+    📫 How to reach me: kienbrown76@gmail.com
 
-    😄 Pronouns: [Your Pronouns]
+    😄 Pronouns: she/her
 
 🛠️ My Tech Stack
 
