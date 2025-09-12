@@ -1,7 +1,7 @@
 <div id="header" align="center">
       <img src="assets/pacman.webp" width="250" height="100" alt="Pacman Animation" style="border-radius: 10px;"/>
   <h1 align="center" style="display: flex; align-items: center; justify-content: center; gap: 10px;">
-    Hi!_I'm_Hsu_Myat_Wai_Maung
+    Hi! I'm Hsu Myat Wai Maung
   </h1>
   <h3 align="center"><b>✨ Crafting beautiful, functional apps as a passionate full-stack developer ✨</b></h3>
 </div>
