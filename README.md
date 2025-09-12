@@ -6,14 +6,15 @@
 
 <div align="center">
 <a href="https://hsu212.github.io/">
-<img src="https://img.shields.io/badge/Portfolio-255E63?style=for-the-badge&logo=hyper&logoColor=white" alt="Portfolio"/>
+<img src="https://img.shields.io/badge/Portfolio-255E63?style=flat&logo=hyper&logoColor=white" alt="Portfolio"/>
 </a>
 </div>
 <div align="center">
 <a href="mailto:kienbrown76@gmail.com">
-<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+<img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" alt="Email"/>
 </a>
-</div>👨‍💻 About Me
+</div>
+👨‍💻 About Me
 
 <p>
 I'm a full-stack developer. I have a deep passion for building elegant, user-friendly, and efficient web applications. I enjoy turning complex problems into simple, beautiful, and intuitive designs.
