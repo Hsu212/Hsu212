@@ -1,5 +1,5 @@
 <div id="header" align="center">
-<img src="assets/pacman.webp" width="500" height="150" style="border-radius: 50%;"/>
+<img src="assets/pacman.webp" width="400" height="150" style="border-radius: 50%;"/>
 <h1 align="center">
 <img src="https://img.shields.io/badge/Hi!_I'm_Hsu_Myat_Wai_Maung-FF69B4?style=for-the-badge&logo=wave&logoColor=white" alt="Name Badge"/>
 </h1>
