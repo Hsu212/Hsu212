@@ -16,7 +16,7 @@
 </a>
 </div>
 
-## <img src="assets/me.webp" width="30" alt="Icon" /> About Me
+## <img src="assets/me.webp" width="40" alt="Icon" /> About Me
 
 > I'm a full-stack developer with a passion for building **elegant, user-friendly, and efficient** web applications. I love turning complex problems into simple, beautiful, and intuitive designs.
 
@@ -31,7 +31,7 @@
 </table>
 </div>
 
-## <img src="assets/tech.webp" width="30" alt="Icon" /> My Tech Stack
+## <img src="assets/tech.webp" width="40" alt="Icon" /> My Tech Stack
 
 Here are some of the technologies I'm proficient in:
 
@@ -64,7 +64,7 @@ Here are some of the technologies I'm proficient in:
 <a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="45" height="45"/></a>
 </p>
 
-## <img src="assets/stats.webp" width="30" alt="Icon" /> My GitHub Stats
+## <img src="assets/stats.webp" width="40" alt="Icon" /> My GitHub Stats
 
 <div align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=Hsu212&show_icons=true&theme=radical&hide_border=true&include_all_commits=true" alt="GitHub Stats" />
