@@ -31,7 +31,7 @@
 </table>
 </div>
 
-🛠️ My Tech Stack
+## 🛠️ My Tech Stack
 
 Here are some of the technologies I'm proficient in:
 
@@ -64,7 +64,7 @@ Here are some of the technologies I'm proficient in:
 <a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="45" height="45"/></a>
 </p>
 
-📊 My GitHub Stats
+## 📊 My GitHub Stats
 
 <div align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=Hsu212&show_icons=true&theme=radical&hide_border=true&include_all_commits=true" alt="GitHub Stats" />
