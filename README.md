@@ -23,7 +23,7 @@
 <div align="center">
 <table>
 <tr><td>🔭</td><td><b>Currently working on</b></td><td>a cool project</td></tr>
-<tr><td>💻</td><td><b>Currently learning</b></td><td>React Native</td></tr>
+<tr><td>💻</td><td><b>Currently learning</b></td><td>Flutter</td></tr>
 <tr><td>👯</td><td><b>Looking to collaborate on</b></td><td>open-source full-stack projects</td></tr>
 <tr><td>💬</td><td><b>Ask me about</b></td><td>React, Next.js, and anything JavaScript-related!</td></tr>
 <tr><td>📫</td><td><b>How to reach me</b></td><td>kienbrown76@gmail.com</td></tr>
