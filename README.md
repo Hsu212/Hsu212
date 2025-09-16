@@ -1,7 +1,7 @@
 <div id="header" align="center">
       <img src="assets/pacman.webp" width="300" height="200" alt="Pacman Animation" style="border-radius: 10px;"/>
   <h1 align="center" style="display: flex; align-items: center; justify-content: center; gap: 10px;">
-    Hi! I'm Hsu Myat Wai Maung
+    Hello! I'm Hsu Myat Wai Maung🌸
   </h1>
   <h3 align="center"><b>✨ Crafting beautiful, functional apps as a passionate full-stack developer ✨</b></h3>
 </div>
@@ -27,7 +27,7 @@
 <tr><td>👯</td><td><b>Looking to collaborate on</b></td><td>open-source full-stack projects</td></tr>
 <tr><td>💬</td><td><b>Ask me about</b></td><td>React, Next.js, and anything JavaScript-related!</td></tr>
 <tr><td>📫</td><td><b>How to reach me</b></td><td>kienbrown76@gmail.com</td></tr>
-<tr><td>🌸</td><td><b>Pronouns</b></td><td>she/her</td></tr>
+<tr><td>👥</td><td><b>Pronouns</b></td><td>she/her</td></tr>
 </table>
 </div>
 
