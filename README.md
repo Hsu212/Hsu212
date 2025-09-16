@@ -75,3 +75,4 @@ Here are some of the technologies I'm proficient in:
 <br><br>
 <img src="https://raw.githubusercontent.com/trinib/trinib/main/images/footer.svg" alt="footer" width="400"/>
 </div>
+![LeetCode Stats](https://leetcard.jacoblin.cool/hsu212?theme=light&font=Sawarabi%20Mincho)
