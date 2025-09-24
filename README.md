@@ -58,9 +58,10 @@ Here are some of the technologies I'm proficient in:
 <p align="left">
 <strong>Backend & Others:</strong><br><br><br>
 <a href="https://nodejs.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="45" height="45"/></a>&nbsp;&nbsp;&nbsp;&nbsp;<span style="padding-left: 15px;"></span>
+<a href="https://supabase.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/supabase/supabase-original.svg" alt="supabase" width="45" height="45"/></a>&nbsp;&nbsp;&nbsp;&nbsp;<span style="padding-left: 15px;"></span>
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git" width="45" height="45"/></a>&nbsp;&nbsp;&nbsp;&nbsp;<span style="padding-left: 15px;"></span>
-</p>
 
+</p>
 ## <img src="assets/stat.webp" width="40" alt="Icon" /> My GitHub Stats
 
 <div align="center">
