@@ -5,7 +5,7 @@
   </h1>
   <h3 align="center"><b>✨ Crafting beautiful, functional apps as a passionate developer ✨</b></h3>
 </div>
-
+  <br><br>
 <div align="center">
   <a href="https://hsu212.github.io/">
     <img src="https://img.shields.io/badge/Portfolio-CF9FFF?style=for-the-badge&logo=hyper&logoColor=white" alt="Portfolio"/>
@@ -15,6 +15,7 @@
     <img src="https://img.shields.io/badge/Email-FFC0CB?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
 </div>
+  <br><br>
 
 ## <img src="assets/me.webp" width="40" alt="Icon" /> About Me
 
