@@ -62,7 +62,8 @@ Here are some of the technologies I'm proficient in:
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git" width="45" height="45"/></a>&nbsp;&nbsp;&nbsp;&nbsp;<span style="padding-left: 15px;"></span>
 
 </p>
-## <img src="assets/stat.webp" width="40" alt="Icon" /> My GitHub Stats
+
+<img src="assets/stat.webp" width="40" alt="Icon" /> My GitHub Stats
 
 <div align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=Hsu212&show_icons=true&theme=radical&hide_border=true&include_all_commits=true" alt="GitHub Stats" />
