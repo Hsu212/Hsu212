@@ -8,11 +8,11 @@
 
 <div align="center">
   <a href="https://hsu212.github.io/">
-    <img src="[https://img.shields.io/badge/Portfolio-8B008B?style=for-the-badge&logo=hyper&logoColor=white](https://img.shields.io/badge/Portfolio-CF9FFF?style=for-the-badge&logo=hyper&logoColor=white)" alt="Portfolio"/>
+    <img src="https://img.shields.io/badge/Portfolio-CF9FFF?style=for-the-badge&logo=hyper&logoColor=white" alt="Portfolio"/>
   </a>
   <br><br>
   <a href="mailto:kienbrown76@gmail.com">
-    <img src="[https://img.shields.io/badge/Email-DC143C?style=for-the-badge&logo=gmail&logoColor=white](https://img.shields.io/badge/Email-FFC0CB?style=for-the-badge&logo=gmail&logoColor=white)" alt="Email"/>
+    <img src="https://img.shields.io/badge/Email-FFC0CB?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
 </div>
 
