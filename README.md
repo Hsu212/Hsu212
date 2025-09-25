@@ -63,7 +63,7 @@ Here are some of the technologies I'm proficient in:
 
 </p>
 
-<img src="assets/stat.webp" width="40" alt="Icon" /> My GitHub Stats
+## <img src="assets/stat.webp" width="40" alt="Icon" /> My GitHub Stats
 
 <div align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=Hsu212&show_icons=true&theme=radical&hide_border=true&include_all_commits=true" alt="GitHub Stats" />
