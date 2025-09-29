@@ -3,7 +3,7 @@
   <h1 align="center" style="display: flex; align-items: center; justify-content: center; gap: 10px;">
     Hello! I'm Hsu Myat Wai Maung🌸
   </h1>
-  <h3 align="center"><b>✨ Crafting beautiful, functional apps as a passionate developer ✨</b></h3>
+  <h3 align="center"><b>✨ Crafting beautiful, functional webs as a passionate developer ✨</b></h3>
 </div>
 <div align="center">
   <a href="https://hsu212.github.io/">
