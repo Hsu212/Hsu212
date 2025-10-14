@@ -17,13 +17,13 @@
 
 ## <img src="assets/me.webp" width="40" alt="Icon" /> About Me
 
-> I'm a final year Computer Science student with a passion for building **elegant, user-friendly, and efficient** web applications. I love turning complex problems into simple, beautiful, and intuitive designs.
+> I'm a final year Computer Science student with a passion for building **elegant, user-friendly, and efficient** webs. I love turning complex problems into simple, beautiful, and intuitive designs.
 
 <div align="center">
 <table>
 <tr><td>🔭</td><td><b>Currently working on</b></td><td>a cool project</td></tr>
 <tr><td>💻</td><td><b>Currently learning</b></td><td>Flutter</td></tr>
-<tr><td>👯</td><td><b>Looking to collaborate on</b></td><td>open-source full-stack projects</td></tr>
+<tr><td>👯</td><td><b>Looking to collaborate on</b></td><td>open-source projects</td></tr>
 <tr><td>💬</td><td><b>Ask me about</b></td><td>React,JavaScript,TypeScript</td></tr>
 <tr><td>📫</td><td><b>How to reach me</b></td><td>kienbrown76@gmail.com</td></tr>
 <tr><td>👥</td><td><b>Pronouns</b></td><td>she/her</td></tr>
