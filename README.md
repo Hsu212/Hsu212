@@ -6,7 +6,7 @@
   <h3 align="center"><b> Crafting beautiful, functional webs as a passionate developer </b></h3>
 </div>
 <div align="center">
-  <a href="https://hsu212.github.io/">
+  <a href="https://hsu-portfolio-theta.vercel.app/">
     <img src="https://img.shields.io/badge/Portfolio-CF9FFF?style=for-the-badge&logo=hyper&logoColor=white" alt="Portfolio"/>
   </a>
         <br><br>
