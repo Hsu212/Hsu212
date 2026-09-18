@@ -3,7 +3,7 @@
   <h1 align="center" style="display: flex; align-items: center; justify-content: center; gap: 10px;">
     Hi! I'm Hsu Myat Wai Maung
   </h1>
-  <h3 align="center"><b> Crafting beautiful, functional webs as a passionate developer </b></h3>
+  <h3 align="center"><b> Crafting beautiful, functional web apps as a passionate full-stack engineer </b></h3>
 </div>
 <div align="center">
   <a href="https://hsu-portfolio-theta.vercel.app/">
@@ -17,7 +17,7 @@
 
 ## <img src="assets/me.webp" width="40" alt="Icon" /> About Me
 
-> I'm a final year Computer Science student with a passion for building **elegant, user-friendly, and efficient** webs. I love turning complex problems into simple, beautiful, and intuitive designs.
+> I'm a final year Computer Science student with a passion for building **elegant, user-friendly, and efficient** web apps. I love turning complex problems into simple, beautiful, and intuitive designs.
 
 <div align="center">
 <table>
