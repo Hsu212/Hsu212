@@ -17,7 +17,7 @@
 
 ## <img src="assets/me.webp" width="40" alt="Icon" /> About Me
 
-> Hi there! I'm the Co-Founder and CTO at **Origins Ltd. UK**[cite: 1], where we specialize in high-performance Web architecture, DevSecOps security auditing, and artificial intelligence solutions[cite: 1].
+> Hi there! I'm the Co-Founder and CTO at **Origins Ltd. UK**, where we specialize in high-performance Web architecture, DevSecOps security auditing, and artificial intelligence solutions.
 
 <div align="center">
 <table>
