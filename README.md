@@ -17,11 +17,11 @@
 
 ## <img src="assets/me.webp" width="40" alt="Icon" /> About Me
 
-> I'm a final year Computer Science student with a passion for building **elegant, user-friendly, and efficient** web apps. I love turning complex problems into simple, beautiful, and intuitive designs.
+> Hi there! I'm the Co-Founder and CTO at **Origins Ltd. UK**[cite: 1], where we specialize in high-performance Web architecture, DevSecOps security auditing, and artificial intelligence solutions[cite: 1].
 
 <div align="center">
 <table>
-<tr><td>💬</td><td><b>Ask me about</b></td><td>JavaScript,TypeScript</td></tr>
+<tr><td>💬</td><td><b>Ask me about</b></td><td>JavaScript, TypeScript, React, Next.js</td></tr>
 <tr><td>📫</td><td><b>How to reach me</b></td><td>kienbrown76@gmail.com</td></tr>
 <tr><td>👥</td><td><b>Pronouns</b></td><td>she/her</td></tr>
 </table>
@@ -55,7 +55,6 @@ Here are some of the technologies I'm proficient in:
 <a href="https://nodejs.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="45" height="45"/></a>&nbsp;&nbsp;&nbsp;&nbsp;<span style="padding-left: 15px;"></span>
 <a href="https://supabase.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/supabase/supabase-original.svg" alt="supabase" width="45" height="45"/></a>&nbsp;&nbsp;&nbsp;&nbsp;<span style="padding-left: 15px;"></span>
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git" width="45" height="45"/></a>&nbsp;&nbsp;&nbsp;&nbsp;<span style="padding-left: 15px;"></span>
-
 </p>
 
 ## <img src="assets/stat.webp" width="40" alt="Icon" /> My GitHub Stats
@@ -64,13 +63,10 @@ Here are some of the technologies I'm proficient in:
 <img src="https://github-readme-stats.vercel.app/api?username=Hsu212&show_icons=true&theme=radical&hide_border=true&include_all_commits=true" alt="GitHub Stats" />
 <br><br>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hsu212&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
-<br><br>
-      
+<br><br>     
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Hsu212&theme=radical&hide_border=true" alt="GitHub Streak" />
-
+<br><br>
+<img src="https://leetcard.jacoblin.cool/hsu212?theme=light&font=Sawarabi%20Mincho" alt="LeetCode Stats" />
 <br><br>
 <img src="https://raw.githubusercontent.com/trinib/trinib/main/images/footer.svg" alt="footer" width="400"/>
 </div>
-
-
-![LeetCode Stats](https://leetcard.jacoblin.cool/hsu212?theme=light&font=Sawarabi%20Mincho)
