@@ -3,7 +3,7 @@
   <h1 align="center" style="display: flex; align-items: center; justify-content: center; gap: 10px;">
     Hi! I'm Hsu Myat Wai Maung
   </h1>
-  <h3 align="center"><b> CompSci Graduate | Co-Founder and CTO at Origins Ltd. </b></h3>
+  <h3 align="center"><b> CompSci Graduate </b></h3>
 </div>
 <div align="center">
   <a href="https://hsu-portfolio-theta.vercel.app/">
@@ -17,7 +17,7 @@
 
 ## <img src="assets/me.webp" width="40" alt="Icon" /> About Me
 
-> Hi there! I'm the Co-Founder and CTO at **Origins Ltd. UK**, where we specialize in high-performance Web architecture, DevSecOps security auditing, and artificial intelligence solutions.
+> Hi there! I'm a Computer Science graduate passionate about building robust web applications, solving complex algorithmic challenges, and exploring modern software engineering technologies.
 
 <div align="center">
 <table>
@@ -63,7 +63,7 @@ Here are some of the technologies I'm proficient in:
 <img src="https://github-readme-stats.vercel.app/api?username=Hsu212&show_icons=true&theme=radical&hide_border=true&include_all_commits=true" alt="GitHub Stats" />
 <br><br>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hsu212&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
-<br><br>     
+<br><br>      
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Hsu212&theme=radical&hide_border=true" alt="GitHub Streak" />
 <br><br>
 <img src="https://leetcard.jacoblin.cool/hsu212?theme=light&font=Sawarabi%20Mincho" alt="LeetCode Stats" />
