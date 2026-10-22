@@ -3,22 +3,21 @@
   <h1 align="center" style="display: flex; align-items: center; justify-content: center; gap: 10px;">
     Hi! I'm Hsu Myat Wai Maung
   </h1>
-  <h3 align="center"><b> CompSci Graduate </b></h3>
+  <h3 align="center"><b> Co-Founder | Chief Technology Officer @Origins Software </b></h3>
 </div>
 <div align="center">
   <a href="https://hsu-portfolio-theta.vercel.app/">
     <img src="https://img.shields.io/badge/Portfolio-CF9FFF?style=for-the-badge&logo=hyper&logoColor=white" alt="Portfolio"/>
   </a>
         <br><br>
-  <a href="mailto:kienbrown76@gmail.com">
+  <a href="mailto:hsumyatwaimaung@origins-software.com">
     <img src="https://img.shields.io/badge/Email-FFC0CB?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
 </div>
 
 ## <img src="assets/me.webp" width="40" alt="Icon" /> About Me
 
-> Hi there! I'm a Computer Science graduate passionate about building robust web applications, solving complex algorithmic challenges, and exploring modern software engineering technologies.
-
+>As a Co-founder & CTO at Origins Software, I direct our technology strategy, product roadmap and engineering team operations.
 <div align="center">
 <table>
 <tr><td>💬</td><td><b>Ask me about</b></td><td>JavaScript, TypeScript, React, Next.js</td></tr>
