@@ -21,7 +21,7 @@
 <div align="center">
 <table>
 <tr><td>💬</td><td><b>Ask me about</b></td><td>JavaScript, TypeScript, React, Next.js</td></tr>
-<tr><td>📫</td><td><b>How to reach me</b></td><td>kienbrown76@gmail.com</td></tr>
+<tr><td>📫</td><td><b>How to reach me</b></td><td>hsumyatwaimaung@origins-software.com</td></tr>
 <tr><td>👥</td><td><b>Pronouns</b></td><td>she/her</td></tr>
 </table>
 </div>
